@@ -13,39 +13,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = MyBlazorApp
 build_property.RootNamespace = MyBlazorApp
-build_property.ProjectDir = /Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/
+build_property.ProjectDir = /private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp
+build_property.MSBuildProjectDirectory = /private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/App.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/Pages/Counter.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/Pages/Home.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/Pages/Weather.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/_Imports.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/Layout/MainLayout.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-uwjohrdo2z
 
-[/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/Layout/NavMenu.razor]
+[/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-j073ci6hee

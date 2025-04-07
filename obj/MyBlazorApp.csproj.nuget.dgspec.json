@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/MyBlazorApp.csproj": {}
+    "/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/MyBlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/MyBlazorApp.csproj": {
+    "/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/MyBlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/MyBlazorApp.csproj",
+        "projectUniqueName": "/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/MyBlazorApp.csproj",
         "projectName": "MyBlazorApp",
-        "projectPath": "/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/MyBlazorApp.csproj",
+        "projectPath": "/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/MyBlazorApp.csproj",
         "packagesPath": "/Users/yashupadhyay/.nuget/packages/",
-        "outputPath": "/Users/yashupadhyay/go/src/github.com/yashupadhyay/MyBlazorApp/obj/",
+        "outputPath": "/private/var/tmp/Roost/RoostGPT/ui-testing/1743976812/source/MyBlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yashupadhyay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
@@ -47,16 +47,10 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
-            "Microsoft.NET.ILLink.Analyzers": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.100-1.23211.1, )",
-              "autoReferenced": true
-            },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.100-1.23211.1, )",
+              "version": "[8.0.4, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
@@ -83,16 +77,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[8.0.4, 8.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -100,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
